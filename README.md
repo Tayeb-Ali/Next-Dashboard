@@ -1,4 +1,5 @@
 #Intro
+
 This is a [Next-Dashboard](https://dash.smart.sd/) project bootstrapped with Next.js.
 
 ## Screenshots
