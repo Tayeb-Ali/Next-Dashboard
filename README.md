@@ -1,4 +1,11 @@
+#Intro
 This is a [Next-Dashboard](https://dash.smart.sd/) project bootstrapped with Next.js.
+
+## Screenshots
+
+![Drag Racing](https://i.ibb.co/vLTSd2B/dashboard.png)
+
+
 
 ## Getting Started
 
