@@ -37,7 +37,7 @@ export default function Sidebar() {
                             icon={faBookOpen}
                             style={{width: "18px", cursor: "pointer"}}
                         />{" "}
-                        <Link href="#">Library</Link>
+                        <Link href="/forms">Forms</Link>
                     </li>
                     <li>
                         <FontAwesomeIcon

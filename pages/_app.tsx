@@ -5,6 +5,7 @@ import Layout from "../components/layout";
 import 'bootstrap/dist/css/bootstrap.css';
 import '../styles/globals.css'
 import '../styles/dashboard.css';
+import '../styles/sidebars.css';
 
 function MyApp({Component, pageProps}: AppProps) {
     return (

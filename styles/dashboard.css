@@ -27,9 +27,15 @@
 
 .d-icon {
     background-image: linear-gradient(rgba(0, 0, 0, .04), rgba(0, 0, 0, .04)) !important;
-    height: 64px;
     border-radius: 50%;
+    height: 70px;
+    width: 70px;
 }
+.d-icon-icon{
+    height: 38px;
+    color: #0dcaf0;
+}
+
 .d-card {
     width: 80px;
 }

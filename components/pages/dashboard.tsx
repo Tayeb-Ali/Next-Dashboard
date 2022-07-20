@@ -12,10 +12,10 @@ export default function Dashboard() {
                         <div className="d-card">
                             <div
                                 className="col-12 px-0 text-center d-flex align-items-center justify-content-center d-icon">
-
                                 <FontAwesomeIcon
                                     icon={faTachometerAlt}
                                     style={{width: "18px", cursor: "pointer"}}
+                                    className="d-icon-icon"
                                 />{" "}
                             </div>
                         </div>
@@ -37,6 +37,7 @@ export default function Dashboard() {
                                 <FontAwesomeIcon
                                     icon={faTachometerAlt}
                                     style={{width: "18px", cursor: "pointer"}}
+                                     className="d-icon-icon"
                                 />{" "}
                             </div>
                         </div>
@@ -57,6 +58,7 @@ export default function Dashboard() {
                                 <FontAwesomeIcon
                                     icon={faTachometerAlt}
                                     style={{width: "18px", cursor: "pointer"}}
+                                     className="d-icon-icon"
                                 />{" "}
                             </div>
                         </div>
@@ -77,6 +79,7 @@ export default function Dashboard() {
                                 <FontAwesomeIcon
                                     icon={faTachometerAlt}
                                     style={{width: "18px", cursor: "pointer"}}
+                                     className="d-icon-icon"
                                 />{" "}
                             </div>
                         </div>

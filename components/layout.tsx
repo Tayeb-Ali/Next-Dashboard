@@ -18,7 +18,9 @@ export default class Layout extends Component<{ children: any }> {
                 <div className={styles.container}>
                     <Sidebar/>
                     <Header/>
-                    <main>{children}</main>
+                    <div className="container">
+                        <main>{children}</main>
+                    </div>
                     <Footer/>
                 </div>
             </div>
