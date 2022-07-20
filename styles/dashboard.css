@@ -31,7 +31,8 @@
     height: 70px;
     width: 70px;
 }
-.d-icon-icon{
+
+.d-icon-icon {
     height: 38px;
     color: #0dcaf0;
 }
@@ -47,3 +48,36 @@
 .rounded-3 {
     border-radius: 0.3rem !important;
 }
+
+.main {
+    margin-left: 18%;
+    color: black;
+    margin-top: 2%;
+    width: max-content;
+}
+
+
+@media only screen and (max-width: 769px) {
+
+    .main {
+        margin-left: 25%;
+    }
+
+}
+
+
+@media only screen and (min-device-width: 900px) and (max-device-width: 1055px) {
+
+    .main {
+        margin-left: 22%;
+    }
+
+}
+
+/*@media only screen and (min-device-width: 770px)  {*/
+
+/*    .main {*/
+/*        margin-left: 25%;*/
+/*    }*/
+
+/*}*/

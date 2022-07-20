@@ -12,7 +12,6 @@ export default function Header() {
                         <h2>
                             Hello, <span>{name}</span>
                         </h2>
-                        <p>welcome to the board.</p>
                     </div>
                     <div className={styles.profile}>
                         <img src="profile.png" alt="profile" className={styles.image}/>
